@@ -9,10 +9,19 @@
 
 
 .container {
-    margin: auto;
+    margin: 40 auto;
     width: auto;
-    
+    height: 1680;
+    background-color: #ffffff;
+    border-radius: 3%;
 
+}
+header{
+    height: 10;
+    display: flex;
+    justify-content: center;
+    margin: 10 auto;
+    
 }
 
 
@@ -48,6 +57,7 @@ bbb {
     background-color: #ddd;
   }
 
+
 .skills {
     text-align: right;
     padding-top: 10px;
@@ -61,5 +71,7 @@ bbb {
   .php {width: 10%; background-color: #808080;}
 
   .eee {
-    margin: 0 100;
+    margin: 0 10;
   }
+
+  
